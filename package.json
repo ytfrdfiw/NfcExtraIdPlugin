@@ -1,0 +1,29 @@
+{
+  "name": "nfcextraidplugin",
+  "version": "2.0.2",
+  "description": "a cordova plugin to capture NFC extra id",
+ "cordova": {
+    "id": "cordova-plugin-get-nfc-info",
+    "platforms": [
+      "android"
+    ]
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/zishabei/NfcExtraIdPlugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "nfc",
+    "extra_id",
+    "nfc-extra-id",
+    "NFC",
+    "cordova-android"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangqiang",
+  "license": "ISC"
+}
